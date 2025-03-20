@@ -1,0 +1,27 @@
+HOME PAGE
+    Remove footer over
+    Change iogo
+    remove links
+    Add links at Grow Up Specialites
+    Remove links for kirankumar
+        1. IIM , Lucknow
+        2. Certified With Google as Professional Architect
+        3. Member National Cyber Security Research Council
+    Change customers images and names
+
+ABOUT PAGE
+    remove footer
+    change contact number
+    remove links
+
+SERVICES
+    Remove all add Our cources
+        1. Artificial Intelligence (AI)
+        2. DevOps With AWS
+        3. Cloud Security
+        4. Multi Cloud
+        5. AI & AWS Cloud Empowering Young Thnnkers -- For Inter Students
+        6. AI Skills for Young (8,9,10th Grade)
+
+We are a leading software training institute specializing in cutting-edge technologies. Our expert instructors provide hands-on training in AI, DevOps with AWS, and Cloud Security. We empower individuals and organizations to thrive in the rapidly evolving tech landscape. We focus on practical skills and industry-relevant certifications. Your success is our priority.
+
